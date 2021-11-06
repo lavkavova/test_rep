@@ -10,7 +10,7 @@ int main() {
     double x[11] = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
     double y[11] = { 3, 87, 156, 210, 238, 252, 239, 211, 158, 90, -5 };
 
-    double *POWERX = new double[2 * m];
+    //double *POWERX = new double[2 * m];
     std::cout << "POWERX:\n";
     for (int k = 0; k < 2 * m; k++)
     {
